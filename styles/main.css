@@ -1,0 +1,27 @@
+:root {
+  --hue: 200;
+  --saturation: 50%;
+  --background-color: hsl(var(--hue), var(--saturation), 20%);
+}
+
+canvas {
+  margin: 8px 6px;
+  background-color: #fff;
+  border: 1px solid #0c3346;
+}
+
+body {
+  margin: 0 auto;
+  background-color: var(--background-color);
+}
+
+img {
+  display: none;
+}
+
+.container {
+  min-height: 90vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
