@@ -6,4 +6,5 @@ You can play [here](https://pokeball-shooter.surge.sh/) or also by cloning and r
 
 ## Controls
 - **A** and **D** or **Left arrow** and **Right arrow** to move the platform.
-- **Space bar** to start/pause the game.
+- **Space bar** to start the game.
+- **ESC** to pause the game.
